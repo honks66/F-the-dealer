@@ -9,6 +9,9 @@ This Python project is based on the popular drinking game. It's rules are the fo
   - If the player is still wrong on their second guess the player has to drink the difference between their second guess and the value of the card. E.g. if the player guessed 5 and the card was a 2, they would take 3 drinks.
   - Once the dealer has beaten 3 people IN A ROW, the deck moves on clockwise to the next person.
 
+
+*Source for rules: https://drinkinggamesbible.com/fuck-the-dealer-drinking-game/
+
 # Files
 The file "FTD_main" contains all the code related to the project.
 
@@ -19,4 +22,4 @@ The file "PNG-numbers" contains the images for each number: one image for ace, o
 
 
 
-*Source for rules: https://drinkinggamesbible.com/fuck-the-dealer-drinking-game/
+
