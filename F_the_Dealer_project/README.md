@@ -1,5 +1,5 @@
 # Fuck the Dealer - drinking game
-This Python project is based on the popular drinking game. It's rules are the following*:
+This Python project is based on the popular drinking game. It's rules* are the following:
 
   - Someone starts off as the dealer.
   - People get two guesses to guess the value of the top card on the deck. After the first guess, the dealer tells them if the card is higher or lower than their first guess. The dealer is not allowed to lie!
